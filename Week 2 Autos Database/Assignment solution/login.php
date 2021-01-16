@@ -94,7 +94,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) )
                 For a password hint, view source and find a password hint
                 in the HTML comments.
                 <!-- Hint: The password is the four character sound a cat
-                makes (all lower case) followed by 123. -->
+                makes (all lower case) followed by 123  i.e) php123 -->
             </p>
         </div>
     </body>
