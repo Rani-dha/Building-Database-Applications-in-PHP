@@ -8,3 +8,9 @@
 ## Course 3: Building-Database-Applications-in-PHP
 
 ### Assignments:
+
+* [Week 2: Automobile(Autos) Database](https://github.com/Rani-dha/Building-Database-Applications-in-PHP/tree/master/Week%202%20Autos%20Database)
+
+
+
+
