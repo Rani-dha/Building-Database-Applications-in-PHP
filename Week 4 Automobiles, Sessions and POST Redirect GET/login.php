@@ -69,8 +69,8 @@ if ( isset($_POST['email']) && isset($_POST['pass']) )
 <html>
     <head>
         <title>Dharani T</title>
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    </head>
+        <!-- CSS only -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">    </head>
     <body>
         <div class="container">
             <h1>Please Log In</h1>
@@ -97,8 +97,7 @@ if ( isset($_POST['email']) && isset($_POST['pass']) )
                         <input class="form-control" type="text" name="pass" id="pass">
                     </div>
                 </div>
-                <div class="form-group">
-                  
+                <div class="form-group">                  
                      <div class="col-sm col-sm-offset-2">
                      <div>
                         <input class="btn btn-primary" type="submit" value="Log In">
